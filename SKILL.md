@@ -1,11 +1,9 @@
 ---
 name: creative-solitude-design
-description: 'Design and protect the conditions required for deep creative work—structured
-  solitude, ritual, and focus. Based on Georgia O''Keeffe''s practice: "The morning
-  is the best time, there are no people ar...'
+description: 'Design and protect the conditions required for deep creative work—structured solitude, ritual, and focus. Based on Georgia O''Keeffe''s practice: "The morning is the best time, there are no people ar...'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - creative-solitude-design
