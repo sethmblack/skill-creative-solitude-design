@@ -3,8 +3,8 @@ name: creative-solitude-design
 description: 'Design and protect the conditions required for deep creative work—structured solitude, ritual, and focus. Based on Georgia O''Keeffe''s practice: "The morning is the best time, there are no people ar...'
 license: MIT
 metadata:
+  version: 1.0.3712
   author: sethmblack
-  version: 1.0.3711
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - creative-solitude-design
